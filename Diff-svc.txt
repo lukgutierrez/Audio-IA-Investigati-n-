@@ -1,2 +1,0 @@
-Program(Famosity Duky)
-https://github.com/effusiveperiscope/so-vits-svc
