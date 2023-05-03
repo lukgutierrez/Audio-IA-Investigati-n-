@@ -2,4 +2,6 @@ Cloning Voz Famous
 https://fakeyou.com/
 Proyects OPEN SOURCE
 https://github.com/CorentinJ/Real-Time-Voice-Cloning
+Proyect ElevenLabs(Cloning voice in english)
+https://beta.elevenlabs.io/
 
